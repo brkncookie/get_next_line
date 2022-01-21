@@ -19,7 +19,8 @@ Take a look at the [PDF](https://github.com/brkncookie/get_next_line/raw/bain4ma
 - review->recode->comment.
 - implement tests.
 
-*PS: all of the above have been done.*
+
+*PS: all of the above have been done expect testing*
 
 ## Testers
 
