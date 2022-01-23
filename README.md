@@ -13,7 +13,7 @@ Take a look at the [PDF](https://github.com/brkncookie/get_next_line/raw/bain4ma
 - *implement the functions you need.
 - test...test.
 - *do the bonus.
-- add other test cases (e.g. we if fail to `malloc` or `read`).
+- add other test cases (e.g. if we fail to `malloc` or `read`).
 - *recode the whole thing.
 - write a [Makefile](https://www.gnu.org/software/make/manual/make.html).
 - review->recode->comment.
@@ -21,7 +21,7 @@ Take a look at the [PDF](https://github.com/brkncookie/get_next_line/raw/bain4ma
 
 *PS: all of the above have been done.*
 
-## Testers
+## Automated Tests
 
 [gnlTester](https://github.com/Tripouille/gnlTester)
 
