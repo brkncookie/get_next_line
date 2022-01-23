@@ -8,18 +8,25 @@ Take a look at the [PDF](https://github.com/brkncookie/get_next_line/raw/bain4ma
 
 ## TODOS
 
-- *rewrite the code and figure out a way to null the lines you return.
-- fix the the wierd bugs.
-- *implement the functions you need.
+- rewrite the code and figure out a way to null the lines you return.
+- fix the weird bugs.
+- implement the functions you need.
 - test...test.
-- *do the bonus.
+<<<<<<< HEAD
+- do the bonus.
 - add other test cases (e.g. if we fail to `malloc` or `read`).
-- *recode the whole thing.
+- recode the whole thing.
+=======
+- do the bonus.
+- add other test cases (e.g. we if fail to `malloc` or `read`).
+- recode the whole thing.
+>>>>>>> 69989ac56bbc7299cd68047eda735241e6afd747
 - write a [Makefile](https://www.gnu.org/software/make/manual/make.html).
 - review->recode->comment.
 - implement tests.
 
-*PS: all of the above have been done.*
+
+*PS: all of the above have been done except testing*
 
 ## Automated Tests
 
